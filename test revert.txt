@@ -1,1 +1,1 @@
-just simply test the reverting of a file not doing anything specific
+just simply test the reverting of a file not there is nothing doing anything specific
