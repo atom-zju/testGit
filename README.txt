@@ -1,0 +1,1 @@
+this is a application use Kinect with OpenNI and OpenCV to merge two ramge frame
